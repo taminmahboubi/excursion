@@ -3,3 +3,8 @@ body{
     text-align: center;
     font-family: Verdana;
 }
+.header--main{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
